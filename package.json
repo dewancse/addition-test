@@ -1,0 +1,19 @@
+{
+  "name": "addition-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewancse/addition-test.git"
+  },
+  "author": "Dewan Sarwar <sarwarcse@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dewancse/addition-test/issues"
+  },
+  "homepage": "https://github.com/dewancse/addition-test#readme"
+}
